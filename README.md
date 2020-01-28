@@ -33,12 +33,14 @@ YGPS-latitude
     The graph shows that break and enter type crime is more likely to happen among safe communities as it is 25% out of total crime activities. 
     On the contrary, the percentage of theft crime is 64.3% in unsafe neighbourhoods, 
     and it is significantly higher by 11.6% than the theft crime rate of safe neighbourhoods.
+ ![](Theft_unsafe_comm5.png)
     
 2. The annual crime rate swings alike the movement of total crime rate over the years. 
     In contrast, the total crime rate trend without theft type crimes steadily decreases over time and a similar tendency is seen in the other types of crimes excluding theft.
     As over 55% of crimes activities is theft classified crime, this is not surprising. 
     The total crime rate drastically declines from 2003 until 2010, but it starts to increase after 2013. 
     The total crime rate is reacting strongly to the theft crime trend, and this tells that theft is the most impactable factor
+ ![](Theft_most_impactable5.png)
 
 ## Conclusion
 1. Theft type crimes are the most common type of crimes in Vancouver, and reducing theft crimes must be priortized 
