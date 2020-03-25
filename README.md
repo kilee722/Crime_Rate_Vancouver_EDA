@@ -2,12 +2,17 @@
 
 Detailed EDA done for the crime rate of vancouver between 2003 - 2017
 
-## Data Description
+#### Prerequisites
+
+R
+All used packages are pre-loaded.
+
+#### Data Description
 
 The dataset contains the data for crime rate in Vancouver, BC.
 Data source: https://www.kaggle.com/wosaku/crime-in-vancouver
 
-## Data Attributes
+#### Data Attributes
 
 TYPE-Crime type
 YEAR-Recorded year
@@ -20,7 +25,7 @@ NEIGHBOURHOOD-Recorded neighborhood
 XGPS-longtitude
 YGPS-latitude
 
-## Objective
+### Objective
 
 1. To perform univariate and multivariate exploratory analysis of the dataset provided.
 2. To provide suggestions for reducing the crime rate in Vancouver
@@ -32,11 +37,7 @@ Vancouver has been named one of the most liveable city in the world for many yea
 
 A dataset of 530652 observations on crime incidents between January 2003 and July 2017 is used. The sample also contained variables including type of crime, year, month, day, hour, and minute of when the reported crime activity happened, hundred block as generalized location of the report crime activity, neighbourhood where the crime occurred, x and y for coordinate values projected in UTM Zone 10, and latitude and longitude coordinate values. I found that the crime rate in Vancouver is decreasing and theft types of crimes play a major role in overall crime rate of the city. I also found that theft types of crimes make up a large proportion of total crime number among the top eight most dangerous neighbourhoods in Vancouver whereas break and enter crimes has a larger proportion of total crime incidents in other neighbourhoods.
 
-### Prerequisites
-
-R
-All used packages are pre-loaded.
-
+### Anlsysis
 
 Graph 1
 
@@ -55,7 +56,7 @@ For my sending finding, I wanted to focus on the most recurrent type of crime in
 
 Although I did not discuss in depth in this report, there were several other findings from this study. First, I found that case of theft of bicycle increases during summer and drops in winter. Second, break and enter commercial crime has a specific pattern in hour and minute graphs, which tells that such type of crime is highly likely to be organized crime as majority of incidents occured at particular time period. Lastly, homicide and vehicle collision with fatality do not share trend with other type of crime at any time and place, thus such types of crime happen rather unintentionally.
 
-## Major Findings
+### Major Findings
 
 1. combined neighbourhoods and grouped into two based on total crime number of neighbourhood: Safe community and Unsafe community. 
     Safe community consists of the top eight highest crime rates neighbourhoods and the rest grouped as unsafe community. 
@@ -73,7 +74,7 @@ Although I did not discuss in depth in this report, there were several other fin
 
 ![](Theft_most_impactable5.png)
 
-## Summary
+### Summary
 
 Explain how to run the automated tests for this system
 
@@ -81,7 +82,8 @@ In summary, based on my analysis, we see that theft crime is the most significan
 
 Further analysis can be done if I have more information on certain variables. For example, it would be helpful to know average income of neighbourhood and number of police officers stationed. It would also be helpful to know age of criminals and victims to better predict criminal behavior.
 
-## Conclusion
+### Conclusion
+
 1. Theft type crimes are the most common type of crimes in Vancouver, and reducing theft crimes must be priortized 
     in order for reducing the overall crime rate of the city     
 2. Burglary is relatively common in safer neighbourhoods of Vancouver. Actions to prevent such type of crimes are required
