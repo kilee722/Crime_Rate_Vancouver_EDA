@@ -41,7 +41,7 @@ A dataset of 530652 observations on crime incidents between January 2003 and Jul
 
 Graph 1
 
-![image](https://user-images.githubusercontent.com/55430338/77514050-506e1300-6e33-11ea-9598-7f4dd5e70826.png)
+![Theft_unsafe_comm10](https://user-images.githubusercontent.com/55430338/83998275-0e724a80-a915-11ea-937f-e5a2a37bcd6e.png)
 
 Anlysis 
 Initially, my primary interest laid in a long-term trend of the city’s crime rate and I also wanted to know what is the most frequent type of crime. By looking at total number of crime activities and annual number of each crime type between 2003 and 2017, I wanted to see if any crime type has a similar trend as the total crime trend. As seen in the graphs above, we can clearly see that the annual crime rate swings alike the movement of total crime rate over years. In contrast, the total crime rate trend without theft type crimes steadily decreases over time and a similar tendency is seen in the other types of crimes excluding theft. As over 55% of crimes activities is theft classified crime, this is not surprising. The total crime rate drastically declines from 2003 until 2010, but it starts to increase after 2013. We can see that the total crime rate is reacting strongly to the theft crime trend, and this tells that theft is the most impactable factor. This information suggests that preventing theft crimes is a vital to bring down crime rate of Vancouver. On the other hand, the graph informs that other types of crime such as break and enter, vehicle collision, homicide and mischief have been successfully reduced over time.
