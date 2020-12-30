@@ -25,6 +25,7 @@ NEIGHBOURHOOD-Recorded neighborhood
 XGPS-longtitude
 YGPS-latitude
 
+![](Slide1.PNG)
 ### Objective
 
 1. To perform univariate and multivariate exploratory analysis of the dataset provided.
