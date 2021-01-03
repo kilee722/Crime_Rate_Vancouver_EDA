@@ -31,3 +31,7 @@ Data source: https://www.kaggle.com/wosaku/crime-in-vancouver
 ### References
 
 **Kaggle** - https://www.kaggle.com/wosaku/crime-in-vancouver
+
+### Technical Appendix
+
+[R markdown](https://github.com/kilee722/Crime_Rate_Vancouver_EDA/blob/master/R_final_project_EDA_complete.html)
