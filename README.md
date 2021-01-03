@@ -16,7 +16,7 @@ Data source: https://www.kaggle.com/wosaku/crime-in-vancouver
 
 
 ### Tableau Dashboard
-
+https://public.tableau.com/views/PortfolioVancouverCrimeRate/Dashboard12?:language=en&:display_count=y&:origin=viz_share_link
 
 ### Languages & Libraries
 
