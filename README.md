@@ -10,6 +10,7 @@ Vancouver has been named one of the most liveable city in the world for many yea
 ### Data Description
 
 The dataset contains crime report data of 530,652 observations and 12 features
+
 Data source: https://www.kaggle.com/wosaku/crime-in-vancouver
 
 ![](Slide1.PNG)
